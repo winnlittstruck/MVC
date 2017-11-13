@@ -1,9 +1,8 @@
 package Observer;
-
-public class Observer {
-
-	public Observer() {
-		// TODO Auto-generated constructor stub
+public class Observer 
+{
+	public void update()
+	{
+		return;
 	}
-
 }
